@@ -1,2 +1,3 @@
-# cross-sans-games.io
-This is my official game website 
+# xhentai.game
+This is the oficial app that we will use
+to run most of the things
